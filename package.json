@@ -1,7 +1,7 @@
 {
-  "name": "ts-usehooks",
+  "name": "hooks-usefetch",
   "version": "3.0.0",
-  "description": "为了更方便的使用react-hook的开发的钩子函数",
+  "description": "为了更方便的发送处理数据请求所开发的hook钩子函数",
   "main": "dist",
   "scripts": {
     "build": "tsc"
@@ -22,6 +22,14 @@
     "mocha": "^9.1.2",
     "typescript": "^4.4.3"
   },
+  "keywords": [
+    "hook",
+    "react",
+    "usefetch",
+    "axios",
+    "http",
+    "钩子函数"
+  ],
   "dependencies": {
     "lodash": "^4.17.21",
     "react": "^17.0.2",
