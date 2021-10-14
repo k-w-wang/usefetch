@@ -1,6 +1,6 @@
 {
   "name": "hooks-usemodal",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "为了更方便的处理antd中Modal弹窗所开发的hook钩子函数",
   "main": "dist",
   "scripts": {
@@ -15,6 +15,14 @@
   "bugs": {
     "url": "https://github.com/k-w-wang/usehooks/issues"
   },
+  "keywords": [
+    "antd",
+    "hook",
+    "react",
+    "usemodal",
+    "钩子函数",
+    "弹窗"
+  ],
   "devDependencies": {
     "@types/lodash": "^4.14.175",
     "@types/react": "^17.0.27",
