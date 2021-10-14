@@ -1,7 +1,7 @@
 {
-  "name": "ts-usehooks",
-  "version": "3.0.0",
-  "description": "为了更方便的使用react-hook的开发的钩子函数",
+  "name": "hooks-usemodal",
+  "version": "2.0.0",
+  "description": "为了更方便的处理antd中Modal弹窗所开发的hook钩子函数",
   "main": "dist",
   "scripts": {
     "build": "tsc"
