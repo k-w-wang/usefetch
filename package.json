@@ -1,0 +1,30 @@
+{
+  "name": "hooks-usefetch",
+  "version": "1.0.0",
+  "description": "为了更方便的处理发送数据请求所开发的hook钩子函数",
+  "main": "dist",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-w-wang/usefetch.git"
+  },
+  "author": "k_wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-w-wang/usefetch/issues"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.175",
+    "@types/react": "^17.0.27",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2",
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-use": "^17.2.1"
+  }
+}
