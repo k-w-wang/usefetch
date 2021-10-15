@@ -1,6 +1,6 @@
 {
   "name": "hooks-usefetch",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "为了更方便的发送处理数据请求所开发的hook钩子函数",
   "main": "dist",
   "scripts": {

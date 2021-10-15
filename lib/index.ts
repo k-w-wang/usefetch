@@ -1,2 +1,2 @@
-import useFetcher from "./useFetcher";
-export default useFetcher
+import useFetch from "./useFetch";
+export default useFetch
