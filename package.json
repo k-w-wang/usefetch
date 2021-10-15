@@ -1,6 +1,6 @@
 {
   "name": "ts-usehooks",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "为了更方便的使用react-hook的开发的钩子函数",
   "main": "dist",
   "scripts": {

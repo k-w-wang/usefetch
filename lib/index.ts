@@ -1,6 +1,3 @@
-import useFetcher from "./useFetcher";
+import useFetch from "./useFetch";
 import useModal from "./useModal";
-export default {
-    useFetcher,
-    useModal
-}
+export { useFetch, useModal }
